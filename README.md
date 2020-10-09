@@ -1,6 +1,6 @@
 # PathOlogist
-Current version: 2.5.4
-An automated tool for pathway-centric analysis.
+Current version: 2.5.4<br/>
+An automated tool for pathway-centric analysis.<br/>
 
 
 Original Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3098789/
